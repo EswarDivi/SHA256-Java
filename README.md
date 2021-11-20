@@ -124,7 +124,6 @@ The workspace contains two folders by default, where:
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default..
 
-## Authors
 
 ## Authors
 
