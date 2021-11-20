@@ -79,7 +79,7 @@ public class Main {
         for(int i=0;i<h.length;i++){
             hashed=hashed+h_hex_new[i];
         }
-        System.out.println(hashed.toUpperCase());
+        System.out.println("Hashed of"+input+hashed.toUpperCase());
 
 
 
