@@ -3,7 +3,7 @@
 Implementation of SHA-256 algorithm in Java
 
 ## psuedocode
-
+```
 _Note 1: All variables are 32 bit unsigned integers and addition is calculated modulo 2__32_
 
 _Note 2: For each round, there is one round constant k[i] and one entry in the message schedule array w[i], 0 ≤ i ≤ 63_
@@ -163,9 +163,8 @@ h7 := h7 **+** h
 _Produce the final hash value (big-endian):_
 
 digest := hash := h0 **append** h1 **append** h2 **append** h3 **append** h4 **append** h5 **append** h6 **append** h7
-
+```
 Source: [WikiPedia](https://en.wikipedia.org/wiki/SHA-2)
-
 ## Usage/Examples
 
 ```Bash
