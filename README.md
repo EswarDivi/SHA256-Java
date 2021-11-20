@@ -123,3 +123,13 @@ The workspace contains two folders by default, where:
 
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default..
+
+## Authors
+
+## Authors
+
+- [Eswar Divi](https://www.github.com/eswardivi)
+- [Pranav](https://github.com/genpranav)
+- [Rahul G](https://github.com/DoomSlayer64)
+- [Rishekesan S.V](https://github.com/Rishekesan3012)
+- [Harsha]() 
